@@ -9,4 +9,4 @@ Download the files, and write
 
 in your file and then your code will work! 
 
-Subscribing to my channel will help me and my family a lot during the Coronavirus Crisis, thank you!
+Subscribing to my channel will help the channel grow!
