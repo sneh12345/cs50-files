@@ -1,6 +1,7 @@
 # How to use the CS50 library in Visual Studio Code
 
-Download the files, and write 
+Download the files,
+then run make to compile them.
 
 ```
 #include "cs50.h"
